@@ -2,4 +2,5 @@
 * JavaScript
 	* [介绍](/docs/JavaScript/base.md)
         * [gugu](/docs/js.md)
+	* [123](/docs/JavaScript/base.md)
 	
